@@ -1,8 +1,13 @@
+import React from 'react';
+
 import './App.css';
 
 function App() {
   return (
-    <div className="App"> abc</div>
+    <div className='App'> 
+      <h1> Volleyball Payment Tracker</h1>
+    </div>
+
   );
 }
 
